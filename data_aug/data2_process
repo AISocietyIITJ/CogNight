@@ -1,0 +1,30 @@
+import numpy as np
+import pandas as pd
+from sklearn.decomposition import PCA
+
+data = pd.read_csv('C:/Users/91738/RAID OSR Project/Datasets/merged_df4.csv')
+
+data = data.drop(["date_l"],axis=1)
+
+cols = ['minutesAsleep','minutesAwake','minutesAfterWakeup','elevationGain','timeInBed','efficiency','mainSleep','overall_score','composition_score','revitalization_score','duration_score','deep_sleep_in_minutes','resting_heart_rate_x','restlessness','fatigue','soreness','stress']
+for i in cols:
+    data[i] = data[i].fillna(np.mean(data[i]))
+
+cols = list(data.columns)
+drop_cols = ['efficiency','overall_score','composition_score','mainSleep','revitalization_score','duration_score','fatigue','soreness','stress','bpm_confidence']
+
+cols = [i for i in cols if i not in drop_cols]
+print(cols)
+// outputs a list of feature names 
+
+# PCA
+
+X = data[cols]
+  
+pca = PCA(n_components = 10)
+data2 = pd.DataFrame(pca.fit_transform(X))
+data2["sleep_score"] = data["overall_score"]
+
+print(data2)
+
+data2.to_csv('data2.csv')
