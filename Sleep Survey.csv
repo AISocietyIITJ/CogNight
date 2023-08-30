@@ -1,0 +1,367 @@
+Timestamp,Gender,Age (in years),How many hours did you sleep last night?,Do you feel you had a sufficient amount of sleep last night ? ,Do you feel you will need more sleep in the coming days than your usual sleep hours if you slept very less tonight? ,"On average, in a week, how many days do you sleep less than optimal time? ",Do you think knowing a personalized optimal required sleep time would be helpful? 
+6/25/2023 9:20:53,Male,19,7-8 hrs,Yes,No,1-2,Yes
+6/25/2023 9:20:59,Male,21,8-9 hrs,Yes,No,1-2,No
+6/25/2023 9:21:23,Female,20,7-8 hrs,Yes,Yes,3-6,Yes
+6/25/2023 9:21:25,Male,19,6-7 hrs,Maybe,Yes,3-6,Yes
+6/25/2023 9:21:29,Male,19,8-9 hrs,Yes,Yes,3-6,No
+6/25/2023 9:21:35,Male,20,6-7 hrs,Yes,Yes,3-6,No
+6/25/2023 9:21:53,Male,20,More than 9 hours,No,Yes,Everyday,No
+6/25/2023 9:21:54,Female,19,7-8 hrs,Yes,No,1-2,Yes
+6/25/2023 9:22:17,Male,19,6-7 hrs,Yes,Yes,1-2,No
+6/25/2023 9:22:19,Male,18,6-7 hrs,Yes,No,1-2,No
+6/25/2023 9:22:23,Male,19,8-9 hrs,Yes,No,1-2,Yes
+6/25/2023 9:22:46,Male,20,6-7 hrs,Yes,No,1-2,No
+6/25/2023 9:22:58,Male,18,8-9 hrs,Yes,No,1-2,No
+6/25/2023 9:23:22,Male,20,7-8 hrs,Yes,Yes,1-2,Yes
+6/25/2023 9:23:54,Female,19,7-8 hrs,Yes,No,1-2,Yes
+6/25/2023 9:26:07,Male,20,6-7 hrs,Yes,Yes,3-6,No
+6/25/2023 9:27:33,Male,19,7-8 hrs,Yes,No,1-2,Yes
+6/25/2023 9:29:39,Male,20,6-7 hrs,Maybe,Yes,1-2,Yes
+6/25/2023 9:32:46,Male,18,8-9 hrs,Yes,No,1-2,No
+6/25/2023 9:33:10,Female,21,6-7 hrs,Yes,Yes,Everyday,Yes
+6/25/2023 9:33:33,Male,20,6-7 hrs,Yes,No,1-2,No
+6/25/2023 9:34:55,Male,19,8-9 hrs,Yes,No,Never,No
+6/25/2023 9:35:06,Female,20,5-6 hrs,No,Yes,3-6,Yes
+6/25/2023 9:36:06,Male,18,7-8 hrs,Yes,No,1-2,No
+6/25/2023 9:36:33,Male,20,8-9 hrs,Yes,No,1-2,No
+6/25/2023 9:37:07,Male,19,6-7 hrs,Yes,Yes,3-6,"Maybe, I don't know."
+6/25/2023 9:38:01,Male,18,8-9 hrs,Yes,Yes,Never,No
+6/25/2023 9:38:04,Male,20,6-7 hrs,No,Yes,3-6,"Maybe, I don't know."
+6/25/2023 9:39:26,Male,20,8-9 hrs,Yes,No,Never,No
+6/25/2023 9:39:44,Male,19,7-8 hrs,Yes,Yes,3-6,No
+6/25/2023 9:40:03,Male,20,7-8 hrs,Yes,Yes,1-2,No
+6/25/2023 9:40:21,Prefer not to say,0,0,Yes,No,Never,No
+6/25/2023 9:40:22,Male,19,Less than 5 hours,No,Yes,Everyday,"Maybe, I don't know."
+6/25/2023 9:41:15,Male,20,8-9 hrs,Yes,No,1-2,"Maybe, I don't know."
+6/25/2023 9:42:29,Male,26,8-9 hrs,Yes,No,Never,"Maybe, I don't know."
+6/25/2023 9:42:51,Male,18,Less than 5 hours,No,Yes,3-6,Yes
+6/25/2023 9:44:09,Male,18,7-8 hrs,Yes,Yes,1-2,Yes
+6/25/2023 9:45:20,Male,20,5-6 hrs,No,No,3-6,Yes
+6/25/2023 9:45:36,Male,20,6-7 hrs,Yes,Yes,1-2,No
+6/25/2023 9:45:59,Male,20,8-9 hrs,Yes,No,3-6,No
+6/25/2023 9:46:48,Male,19,6-7 hrs,Yes,Yes,1-2,Yes
+6/25/2023 9:47:06,Male,18,5-6 hrs,Yes,Yes,3-6,Yes
+6/25/2023 9:47:35,Female,23,5-6 hrs,Yes,No,1-2,Yes
+6/25/2023 9:48:01,Male,21,6-7 hrs,Yes,Yes,1-2,"Maybe, I don't know."
+6/25/2023 9:48:28,Male,26,6-7 hrs,Yes,Yes,1-2,"Maybe, I don't know."
+6/25/2023 9:49:27,Female,19,Less than 5 hours,No,No,Everyday,"Maybe, I don't know."
+6/25/2023 9:49:41,Female,26,6-7 hrs,Yes,Yes,Never,Yes
+6/25/2023 9:49:47,Female,23,6-7 hrs,Yes,Yes,3-6,Yes
+6/25/2023 9:50:08,Male,19,7-8 hrs,Yes,Yes,3-6,No
+6/25/2023 9:50:16,Male,18,8-9 hrs,No,Yes,Never,Yes
+6/25/2023 9:50:20,Male,20,7-8 hrs,Yes,No,1-2,Yes
+6/25/2023 9:50:45,Male,20 years ,Less than 5 hours,No,Yes,Never,No
+6/25/2023 9:50:47,Male,19,5-6 hrs,No,Yes,1-2,"Maybe, I don't know."
+6/25/2023 9:51:20,Female,19,5-6 hrs,No,Yes,1-2,No
+6/25/2023 9:52:05,Male,20,8-9 hrs,No,Yes,3-6,"Maybe, I don't know."
+6/25/2023 9:52:15,Female,20,5-6 hrs,Maybe,No,1-2,Yes
+6/25/2023 9:52:44,Male,20,6-7 hrs,Yes,No,1-2,Yes
+6/25/2023 9:53:01,Female,19,More than 9 hours,Yes,Yes,1-2,"Maybe, I don't know."
+6/25/2023 9:53:08,Male,18,7-8 hrs,Yes,No,3-6,Yes
+6/25/2023 9:53:28,Male,17,6-7 hrs,Maybe,Yes,Everyday,Yes
+6/25/2023 9:54:23,Female,18,8-9 hrs,Yes,No,1-2,Yes
+6/25/2023 9:54:34,Male,19,5-6 hrs,Yes,No,1-2,Yes
+6/25/2023 9:54:55,Male,20,8-9 hrs,Yes,No,Never,No
+6/25/2023 9:55:23,Male,20,6-7 hrs,Yes,Yes,1-2,"Maybe, I don't know."
+6/25/2023 9:56:03,Male,20,7-8 hrs,Yes,Yes,3-6,No
+6/25/2023 9:57:10,Male,25,5-6 hrs,No,Yes,3-6,Yes
+6/25/2023 9:58:22,Male,21,More than 9 hours,No,Yes,1-2,Yes
+6/25/2023 9:58:50,Male,22,5-6 hrs,No,Yes,1-2,Yes
+6/25/2023 9:59:27,Female,18,7-8 hrs,Yes,No,Everyday,Yes
+6/25/2023 10:03:18,Male,21,8-9 hrs,Yes,No,Never,"Maybe, I don't know."
+6/25/2023 10:03:26,Female,18,5-6 hrs,Yes,No,1-2,"Maybe, I don't know."
+6/25/2023 10:04:09,Male,17,Less than 5 hours,No,Yes,3-6,Yes
+6/25/2023 10:04:13,Female,18,6-7 hrs,Yes,Yes,1-2,Yes
+6/25/2023 10:04:21,Male,18,5-6 hrs,Yes,No,1-2,Yes
+6/25/2023 10:04:25,Male,18,7-8 hrs,Yes,No,Never,Yes
+6/25/2023 10:04:41,Male,19,5-6 hrs,No,Yes,3-6,Yes
+6/25/2023 10:05:09,Male,19,5-6 hrs,No,Yes,Everyday,Yes
+6/25/2023 10:05:19,Male,18,7-8 hrs,Yes,Yes,Never,Yes
+6/25/2023 10:05:37,Male,18,6-7 hrs,No,Yes,3-6,"Maybe, I don't know."
+6/25/2023 10:06:23,Female,19,7-8 hrs,Yes,No,1-2,No
+6/25/2023 10:07:30,Male,21,0,No,Yes,Everyday,"Maybe, I don't know."
+6/25/2023 10:08:31,Male,20,6-7 hrs,No,Yes,3-6,Yes
+6/25/2023 10:08:35,Male,19,7-8 hrs,Maybe,No,1-2,"Maybe, I don't know."
+6/25/2023 10:09:14,Male,20,7-8 hrs,Yes,No,3-6,Yes
+6/25/2023 10:11:07,Male,20,Less than 5 hours,Maybe,No,Never,"Maybe, I don't know."
+6/25/2023 10:11:13,Female,18,8-9 hrs,Maybe,No,3-6,"Maybe, I don't know."
+6/25/2023 10:11:53,Female,19,6-7 hrs,No,No,1-2,Yes
+6/25/2023 10:13:52,Female,18,More than 9 hours,Yes,No,Everyday,Yes
+6/25/2023 10:15:59,Male,20,6-7 hrs,No,Yes,3-6,"Maybe, I don't know."
+6/25/2023 10:16:14,Male,22,7-8 hrs,Yes,No,Never,"Maybe, I don't know."
+6/25/2023 10:19:38,Male,20,5-6 hrs,Maybe,No,Everyday,Yes
+6/25/2023 10:20:10,Female,20,More than 9 hours,Maybe,Yes,1-2,Yes
+6/25/2023 10:20:30,Male,20,6-7 hrs,Yes,No,Never,Yes
+6/25/2023 10:21:54,Male,19,More than 9 hours,Yes,No,1-2,"Maybe, I don't know."
+6/25/2023 10:23:51,Male,25,7-8 hrs,No,Yes,1-2,Yes
+6/25/2023 10:24:07,Female,20,Less than 5 hours,No,Yes,1-2,"Maybe, I don't know."
+6/25/2023 10:26:25,Male,14,6-7 hrs,Yes,Yes,Never,"Maybe, I don't know."
+6/25/2023 10:26:48,Male,16,6-7 hrs,Yes,No,1-2,Yes
+6/25/2023 10:26:52,Male,19,0,Yes,No,Never,"Maybe, I don't know."
+6/25/2023 10:27:58,Female,22,8-9 hrs,Yes,No,1-2,"Maybe, I don't know."
+6/25/2023 10:29:01,Female,19,8-9 hrs,Maybe,No,1-2,Yes
+6/25/2023 10:30:04,Female,19,7-8 hrs,Yes,No,1-2,Yes
+6/25/2023 10:30:23,Male,20,6-7 hrs,No,Yes,1-2,"Maybe, I don't know."
+6/25/2023 10:30:26,Female,19,6-7 hrs,Yes,Yes,1-2,Yes
+6/25/2023 10:31:04,Male,19,6-7 hrs,Yes,Yes,3-6,No
+6/25/2023 10:31:34,Female,19,7-8 hrs,Yes,No,1-2,Yes
+6/25/2023 10:31:56,Male,20,5-6 hrs,No,No,1-2,Yes
+6/25/2023 10:32:20,Male,19,7-8 hrs,Maybe,Yes,3-6,Yes
+6/25/2023 10:33:21,Male,18,6-7 hrs,No,No,1-2,Yes
+6/25/2023 10:33:45,Male,21,6-7 hrs,Yes,No,1-2,Yes
+6/25/2023 10:34:32,Male,18,7-8 hrs,Yes,No,1-2,"Maybe, I don't know."
+6/25/2023 10:34:54,Male,18,More than 9 hours,No,Yes,Never,Yes
+6/25/2023 10:36:05,Female,21,7-8 hrs,Yes,Yes,3-6,"Maybe, I don't know."
+6/25/2023 10:36:46,Female,18,6-7 hrs,Yes,No,1-2,Yes
+6/25/2023 10:37:10,Male,18,5-6 hrs,No,No,1-2,Yes
+6/25/2023 10:37:37,Female,19,5-6 hrs,No,Yes,3-6,Yes
+6/25/2023 10:37:49,Male,69,Less than 5 hours,No,No,Everyday,No
+6/25/2023 10:37:54,Male,18,8-9 hrs,Yes,No,1-2,Yes
+6/25/2023 10:38:45,Male,18,8-9 hrs,Yes,No,Never,"Maybe, I don't know."
+6/25/2023 10:38:46,Male,19,8-9 hrs,Maybe,Yes,3-6,No
+6/25/2023 10:40:04,Male,18,7-8 hrs,Maybe,Yes,1-2,Yes
+6/25/2023 10:40:19,Male,20,7-8 hrs,Maybe,Yes,3-6,"Maybe, I don't know."
+6/25/2023 10:44:03,Male,20,6-7 hrs,Yes,Yes,1-2,Yes
+6/25/2023 10:45:39,Female,49,5-6 hrs,No,Yes,3-6,Yes
+6/25/2023 10:46:40,Female,18,More than 9 hours,Yes,No,3-6,Yes
+6/25/2023 10:47:59,Male,18,7-8 hrs,No,No,3-6,Yes
+6/25/2023 10:49:42,Male,19,7-8 hrs,Yes,Yes,3-6,Yes
+6/25/2023 10:53:06,Female,19,8-9 hrs,Yes,No,1-2,Yes
+6/25/2023 10:53:18,Male,50,7-8 hrs,Yes,No,Never,No
+6/25/2023 10:53:31,Male,37,6-7 hrs,No,No,Never,Yes
+6/25/2023 10:54:10,Male,19,5-6 hrs,No,Yes,3-6,"Maybe, I don't know."
+6/25/2023 10:54:20,Female,18,8-9 hrs,Yes,Yes,1-2,Yes
+6/25/2023 10:55:00,Female,46,5-6 hrs,Yes,Yes,1-2,Yes
+6/25/2023 10:57:26,Female,36,5-6 hrs,No,Yes,1-2,Yes
+6/25/2023 10:57:32,Male,18,6-7 hrs,Yes,Yes,1-2,"Maybe, I don't know."
+6/25/2023 10:58:04,Male,34,8-9 hrs,Yes,Yes,1-2,Yes
+6/25/2023 11:01:09,Female,19,8-9 hrs,Yes,Yes,3-6,Yes
+6/25/2023 11:02:48,Male,46,6-7 hrs,Maybe,Yes,1-2,Yes
+6/25/2023 11:02:56,Male,18,6-7 hrs,Yes,No,1-2,Yes
+6/25/2023 11:03:13,Female,20,7-8 hrs,Yes,No,1-2,Yes
+6/25/2023 11:04:03,Male,19,5-6 hrs,Maybe,No,3-6,"Maybe, I don't know."
+6/25/2023 11:04:14,Male,28,6-7 hrs,Maybe,No,1-2,"Maybe, I don't know."
+6/25/2023 11:04:25,Female,19,6-7 hrs,Yes,Yes,1-2,Yes
+6/25/2023 11:04:51,Female,25,6-7 hrs,Yes,No,1-2,Yes
+6/25/2023 11:05:10,Male,18,8-9 hrs,Yes,No,1-2,Yes
+6/25/2023 11:05:52,Female,22,Less than 5 hours,No,No,3-6,"Maybe, I don't know."
+6/25/2023 11:06:30,Male,19,0,No,No,1-2,Yes
+6/25/2023 11:07:06,Male,18,5-6 hrs,No,Yes,Everyday,"Maybe, I don't know."
+6/25/2023 11:09:10,Male,23,More than 9 hours,No,Yes,Never,No
+6/25/2023 11:09:16,Male,19,8-9 hrs,Yes,Yes,3-6,"Maybe, I don't know."
+6/25/2023 11:09:59,Female,61,5-6 hrs,Yes,No,1-2,Yes
+6/25/2023 11:10:29,Male,21,5-6 hrs,No,Yes,1-2,Yes
+6/25/2023 11:10:31,Male,50,7-8 hrs,Yes,No,Never,"Maybe, I don't know."
+6/25/2023 11:11:02,Male,19,7-8 hrs,Maybe,Yes,1-2,No
+6/25/2023 11:13:56,Male,21,5-6 hrs,Yes,No,1-2,"Maybe, I don't know."
+6/25/2023 11:14:23,Female,20,5-6 hrs,Yes,No,3-6,Yes
+6/25/2023 11:14:39,Female,57,6-7 hrs,Yes,Yes,Never,Yes
+6/25/2023 11:20:01,Male,19,6-7 hrs,Yes,No,3-6,"Maybe, I don't know."
+6/25/2023 11:20:34,Female,19 years ,5-6 hrs,Yes,No,1-2,Yes
+6/25/2023 11:21:56,Male,18,0,No,Yes,1-2,Yes
+6/25/2023 11:22:14,Male,19,6-7 hrs,Yes,No,1-2,Yes
+6/25/2023 11:24:43,Male,18,6-7 hrs,No,Yes,1-2,Yes
+6/25/2023 11:27:13,Male,18,7-8 hrs,Yes,Yes,3-6,Yes
+6/25/2023 11:27:35,Male,80,5-6 hrs,No,Yes,1-2,Yes
+6/25/2023 11:27:54,Male,22,More than 9 hours,Yes,No,Everyday,No
+6/25/2023 11:28:33,Male,40,7-8 hrs,Yes,No,1-2,Yes
+6/25/2023 11:29:11,Male,20,Less than 5 hours,No,Yes,3-6,Yes
+6/25/2023 11:29:41,Female,18,6-7 hrs,Maybe,Yes,1-2,Yes
+6/25/2023 11:29:54,Male,18,6-7 hrs,Yes,Yes,3-6,"Maybe, I don't know."
+6/25/2023 11:31:42,Male,20,6-7 hrs,Yes,Yes,Everyday,Yes
+6/25/2023 11:33:24,Male,22,5-6 hrs,No,Yes,1-2,"Maybe, I don't know."
+6/25/2023 11:34:27,Female,38,6-7 hrs,Maybe,Yes,1-2,Yes
+6/25/2023 11:34:51,Male,48,6-7 hrs,Yes,No,Never,Yes
+6/25/2023 11:39:20,Male,19,8-9 hrs,Yes,Yes,1-2,Yes
+6/25/2023 11:42:48,Male,18,8-9 hrs,Yes,No,1-2,Yes
+6/25/2023 11:43:02,Male,18,7-8 hrs,Yes,Yes,1-2,Yes
+6/25/2023 11:43:27,Male,19,5-6 hrs,Yes,Yes,1-2,Yes
+6/25/2023 11:44:29,Male,19,6-7 hrs,Yes,No,Everyday,No
+6/25/2023 11:44:34,Female,45,7-8 hrs,Yes,No,Never,Yes
+6/25/2023 11:44:47,Female,47,7-8 hrs,Yes,No,1-2,Yes
+6/25/2023 11:46:14,Male,20,8-9 hrs,Yes,Yes,3-6,Yes
+6/25/2023 11:46:19,Male,19,More than 9 hours,Yes,No,Never,Yes
+6/25/2023 11:47:13,Male,19,6-7 hrs,Yes,No,Never,No
+6/25/2023 11:48:03,Female,18,6-7 hrs,Yes,Yes,3-6,Yes
+6/25/2023 11:49:59,Male,20,0,No,Yes,Never,No
+6/25/2023 11:51:13,Female,46,7-8 hrs,Yes,No,1-2,"Maybe, I don't know."
+6/25/2023 11:52:48,Female,20,More than 9 hours,Yes,No,1-2,Yes
+6/25/2023 11:53:54,Female,20,6-7 hrs,Yes,Yes,3-6,"Maybe, I don't know."
+6/25/2023 11:56:14,Male,19,8-9 hrs,Yes,Yes,1-2,"Maybe, I don't know."
+6/25/2023 11:56:33,Male,20,7-8 hrs,Yes,Yes,Everyday,Yes
+6/25/2023 11:57:10,Male,18,Less than 5 hours,Yes,Yes,3-6,"Maybe, I don't know."
+6/25/2023 11:57:15,Male,19,More than 9 hours,Yes,No,3-6,Yes
+6/25/2023 12:01:19,Male,20,8-9 hrs,Yes,No,1-2,Yes
+6/25/2023 12:04:22,Male,19,More than 9 hours,Yes,No,1-2,No
+6/25/2023 12:04:23,Male,19,6-7 hrs,Yes,Yes,1-2,Yes
+6/25/2023 12:08:46,Female,48,7-8 hrs,Yes,No,Never,Yes
+6/25/2023 12:12:56,Male,20,7-8 hrs,Yes,Yes,Never,Yes
+6/25/2023 12:14:05,Male,20,More than 9 hours,Yes,Yes,1-2,No
+6/25/2023 12:17:47,Female,18,6-7 hrs,No,Yes,3-6,"Maybe, I don't know."
+6/25/2023 12:18:12,Male,20,7-8 hrs,Yes,No,1-2,Yes
+6/25/2023 12:18:47,Male,50,7-8 hrs,Yes,No,1-2,Yes
+6/25/2023 12:19:36,Male,19,More than 9 hours,Yes,No,1-2,Yes
+6/25/2023 12:19:41,Male,20,7-8 hrs,Yes,Yes,1-2,Yes
+6/25/2023 12:19:58,Female,20,7-8 hrs,Maybe,Yes,1-2,"Maybe, I don't know."
+6/25/2023 12:21:59,Female,48 years,6-7 hrs,Yes,No,Never,Yes
+6/25/2023 12:24:29,Male,19,7-8 hrs,Yes,No,3-6,Yes
+6/25/2023 12:25:30,Female,19,8-9 hrs,Yes,No,Never,Yes
+6/25/2023 12:25:51,Male,20,5-6 hrs,No,Yes,3-6,Yes
+6/25/2023 12:26:44,Female,18,7-8 hrs,Yes,Yes,Never,Yes
+6/25/2023 12:33:05,Male,19,5-6 hrs,Yes,No,3-6,"Maybe, I don't know."
+6/25/2023 12:33:06,Male,19,6-7 hrs,Yes,Yes,1-2,Yes
+6/25/2023 12:34:03,Female,17,6-7 hrs,No,Yes,3-6,Yes
+6/25/2023 12:42:30,Male,68 years,6-7 hrs,Yes,No,1-2,"Maybe, I don't know."
+6/25/2023 12:42:57,Male,18,7-8 hrs,Yes,Yes,1-2,Yes
+6/25/2023 12:43:36,Male,18,More than 9 hours,No,Yes,Everyday,"Maybe, I don't know."
+6/25/2023 12:43:50,Female,54,6-7 hrs,Maybe,Yes,1-2,Yes
+6/25/2023 12:53:47,Male,20,6-7 hrs,Yes,Yes,1-2,"Maybe, I don't know."
+6/25/2023 12:56:54,Male,19,8-9 hrs,Yes,No,1-2,Yes
+6/25/2023 12:59:17,Male,19,Less than 5 hours,No,Yes,3-6,Yes
+6/25/2023 12:59:39,Male,21,5-6 hrs,No,Yes,1-2,No
+6/25/2023 13:05:11,Female,19,Less than 5 hours,Yes,No,Never,Yes
+6/25/2023 13:07:40,Female,48 yrs,5-6 hrs,Yes,No,1-2,"Maybe, I don't know."
+6/25/2023 13:09:13,Male,22,More than 9 hours,No,Yes,3-6,Yes
+6/25/2023 13:09:55,Male,54,7-8 hrs,Yes,Yes,1-2,Yes
+6/25/2023 13:10:22,Female,20,5-6 hrs,No,Yes,3-6,Yes
+6/25/2023 13:11:44,Female,20,8-9 hrs,Yes,No,1-2,No
+6/25/2023 13:18:43,Male,20,5-6 hrs,Yes,Yes,3-6,Yes
+6/25/2023 13:21:38,Male,19,6-7 hrs,Yes,No,Never,No
+6/25/2023 13:21:58,Male,19,6-7 hrs,Yes,Yes,1-2,Yes
+6/25/2023 13:28:39,Male,19,8-9 hrs,Yes,No,3-6,"Maybe, I don't know."
+6/25/2023 13:29:48,Male,18,8-9 hrs,Maybe,No,1-2,Yes
+6/25/2023 13:37:53,Male,19,6-7 hrs,Yes,No,1-2,Yes
+6/25/2023 13:38:42,Male,22,8-9 hrs,Yes,No,1-2,Yes
+6/25/2023 13:40:33,Male,18,6-7 hrs,Yes,No,3-6,"Maybe, I don't know."
+6/25/2023 13:43:11,Female,35,7-8 hrs,Yes,Yes,1-2,Yes
+6/25/2023 13:43:19,Female,46,7-8 hrs,Yes,No,Never,Yes
+6/25/2023 13:45:07,Male,19,More than 9 hours,Yes,No,Never,"Maybe, I don't know."
+6/25/2023 13:45:36,Male,19,Less than 5 hours,No,Yes,Everyday,"Maybe, I don't know."
+6/25/2023 13:52:45,Male,19,7-8 hrs,Yes,Yes,3-6,Yes
+6/25/2023 13:55:02,Male,19,5-6 hrs,Maybe,Yes,3-6,"Maybe, I don't know."
+6/25/2023 14:06:23,Male,18,5-6 hrs,Maybe,Yes,1-2,Yes
+6/25/2023 14:11:35,Female,20,6-7 hrs,Yes,Yes,1-2,Yes
+6/25/2023 14:11:36,Male,49,8-9 hrs,Yes,Yes,1-2,Yes
+6/25/2023 14:24:18,Female,18,6-7 hrs,Yes,No,1-2,"Maybe, I don't know."
+6/25/2023 14:43:57,Male,21,6-7 hrs,Yes,Yes,1-2,Yes
+6/25/2023 14:44:09,Male,20,7-8 hrs,Yes,No,1-2,Yes
+6/25/2023 15:03:49,Female,40,7-8 hrs,Yes,Yes,1-2,No
+6/25/2023 15:05:59,Male,20,5-6 hrs,Maybe,Yes,1-2,No
+6/25/2023 15:13:38,Male,18,5-6 hrs,Yes,Yes,1-2,Yes
+6/25/2023 15:18:46,Female,19,8-9 hrs,Yes,No,1-2,Yes
+6/25/2023 15:21:35,Male,20,0,Yes,No,Everyday,"Maybe, I don't know."
+6/25/2023 15:22:05,Male,18,8-9 hrs,Yes,Yes,Everyday,Yes
+6/25/2023 15:36:25,Female,23,Less than 5 hours,Maybe,No,Everyday,"Maybe, I don't know."
+6/25/2023 15:40:59,Male,20,7-8 hrs,Yes,Yes,1-2,"Maybe, I don't know."
+6/25/2023 15:41:57,Male,19,More than 9 hours,Maybe,No,3-6,"Maybe, I don't know."
+6/25/2023 15:42:55,Male,19,More than 9 hours,No,Yes,1-2,"Maybe, I don't know."
+6/25/2023 15:46:34,Male,19,5-6 hrs,Maybe,Yes,3-6,Yes
+6/25/2023 15:53:52,Male,49,5-6 hrs,Yes,No,1-2,Yes
+6/25/2023 16:27:26,Female,48,7-8 hrs,Maybe,Yes,1-2,Yes
+6/25/2023 16:29:26,Female,44,5-6 hrs,No,Yes,1-2,Yes
+6/25/2023 16:45:45,Female,24,6-7 hrs,Maybe,Yes,3-6,Yes
+6/25/2023 16:57:31,Female,18,5-6 hrs,Yes,No,Never,"Maybe, I don't know."
+6/25/2023 17:01:35,Male,19,More than 9 hours,Yes,Yes,Never,Yes
+6/25/2023 17:03:34,Male,19,6-7 hrs,Yes,Yes,3-6,"Maybe, I don't know."
+6/25/2023 17:14:25,Male,18,7-8 hrs,Yes,Yes,3-6,Yes
+6/25/2023 17:20:47,Female,47,7-8 hrs,Yes,No,1-2,Yes
+6/25/2023 17:34:11,Female,20,More than 9 hours,No,Yes,Everyday,"Maybe, I don't know."
+6/25/2023 17:37:57,Male,20,6-7 hrs,Yes,Yes,1-2,Yes
+6/25/2023 17:45:47,Female,18,5-6 hrs,Yes,Yes,3-6,Yes
+6/25/2023 17:47:00,Male,35,5-6 hrs,Yes,No,1-2,Yes
+6/25/2023 17:57:05,Male,19,More than 9 hours,Yes,Yes,3-6,Yes
+6/25/2023 18:23:22,Male,19,Less than 5 hours,No,Yes,3-6,"Maybe, I don't know."
+6/25/2023 18:30:07,Male,19,6-7 hrs,Maybe,Yes,1-2,Yes
+6/25/2023 18:30:52,Male,22,8-9 hrs,Yes,No,Never,Yes
+6/25/2023 18:47:55,Female,48,5-6 hrs,Yes,Yes,1-2,Yes
+6/25/2023 19:00:47,Female,18,6-7 hrs,No,Yes,1-2,"Maybe, I don't know."
+6/25/2023 19:01:27,Female,21,5-6 hrs,No,Yes,1-2,Yes
+6/25/2023 19:02:58,Male,19,6-7 hrs,Yes,No,Never,Yes
+6/25/2023 19:09:29,Female,19,Less than 5 hours,No,Yes,Everyday,"Maybe, I don't know."
+6/25/2023 19:11:32,Female,19,6-7 hrs,Maybe,Yes,3-6,Yes
+6/25/2023 19:11:56,Male,18,7-8 hrs,No,Yes,3-6,Yes
+6/25/2023 19:22:09,Male,20,7-8 hrs,Yes,No,Everyday,"Maybe, I don't know."
+6/25/2023 19:23:40,Male,30,5-6 hrs,No,Yes,Everyday,Yes
+6/25/2023 19:29:07,Female,62,7-8 hrs,Yes,Yes,Never,No
+6/25/2023 19:33:11,Male,15,7-8 hrs,Maybe,No,Never,Yes
+6/25/2023 19:37:21,Male,18,More than 9 hours,No,Yes,Never,No
+6/25/2023 19:47:36,Male,45,7-8 hrs,Yes,No,Never,Yes
+6/25/2023 19:51:57,Female,38,8-9 hrs,Yes,Yes,1-2,Yes
+6/25/2023 19:53:57,Female,43,6-7 hrs,Yes,Yes,Never,Yes
+6/25/2023 19:54:16,Female,31,7-8 hrs,Yes,Yes,Everyday,Yes
+6/25/2023 19:55:05,Female,43,7-8 hrs,Yes,No,Never,Yes
+6/25/2023 19:55:29,Female,36,6-7 hrs,No,Yes,3-6,Yes
+6/25/2023 20:19:22,Female,50,6-7 hrs,Yes,Yes,Everyday,Yes
+6/25/2023 20:36:26,Male,62,8-9 hrs,Yes,No,Everyday,Yes
+6/25/2023 20:41:36,Female,44,7-8 hrs,Maybe,Yes,1-2,Yes
+6/25/2023 20:42:00,Male,20,More than 9 hours,Maybe,Yes,1-2,No
+6/25/2023 20:54:01,Male,21,More than 9 hours,Maybe,No,3-6,Yes
+6/25/2023 20:56:28,Male,19,7-8 hrs,Yes,No,Never,No
+6/25/2023 20:59:52,Female,64,7-8 hrs,Yes,Yes,1-2,Yes
+6/25/2023 21:47:01,Male,20,8-9 hrs,Yes,No,3-6,Yes
+6/25/2023 22:12:38,Female,39,7-8 hrs,Yes,No,1-2,Yes
+6/25/2023 22:27:17,Female,70yrs.,8-9 hrs,No,Yes,1-2,No
+6/25/2023 22:34:57,Female,35,6-7 hrs,Yes,Yes,1-2,Yes
+6/25/2023 22:36:46,Male,18,5-6 hrs,No,Yes,Everyday,Yes
+6/25/2023 22:42:15,Male,18,0,No,Yes,1-2,Yes
+6/25/2023 22:51:31,Male,25,7-8 hrs,Yes,Yes,1-2,Yes
+6/25/2023 23:15:02,Male,19,7-8 hrs,Yes,Yes,3-6,"Maybe, I don't know."
+6/25/2023 23:26:22,Male,19,7-8 hrs,Maybe,Yes,3-6,"Maybe, I don't know."
+6/25/2023 23:48:03,Female,26,6-7 hrs,Yes,Yes,1-2,"Maybe, I don't know."
+6/26/2023 5:55:35,Male,50,7-8 hrs,Yes,No,1-2,Yes
+6/26/2023 6:37:31,Male,49,6-7 hrs,Yes,Yes,3-6,Yes
+6/26/2023 7:18:48,Male,20,Less than 5 hours,Yes,No,1-2,"Maybe, I don't know."
+6/26/2023 7:53:46,Male,19,5-6 hrs,Yes,No,3-6,"Maybe, I don't know."
+6/26/2023 8:40:30,Male,19,7-8 hrs,Yes,No,1-2,Yes
+6/26/2023 9:14:53,Male,20,8-9 hrs,Yes,No,Never,No
+6/26/2023 9:58:52,Female,36,8-9 hrs,Yes,Yes,Never,Yes
+6/26/2023 11:57:03,Male,19,6-7 hrs,Maybe,Yes,1-2,Yes
+6/26/2023 12:51:05,Male,47,6-7 hrs,Maybe,No,3-6,Yes
+6/26/2023 13:25:19,Male,16,6-7 hrs,Yes,No,1-2,Yes
+6/26/2023 14:36:40,Female,50yrs,Less than 5 hours,No,Yes,1-2,Yes
+6/26/2023 15:26:23,Male,20,5-6 hrs,Maybe,Yes,1-2,"Maybe, I don't know."
+6/26/2023 15:35:47,Male,19,7-8 hrs,Maybe,No,1-2,Yes
+6/26/2023 15:37:18,Male,19,Less than 5 hours,Maybe,Yes,Everyday,Yes
+6/26/2023 15:38:17,Male,18,6-7 hrs,No,Yes,1-2,Yes
+6/26/2023 16:08:54,Male,19,8-9 hrs,Yes,No,1-2,Yes
+6/26/2023 16:13:36,Male,21,Less than 5 hours,Yes,Yes,3-6,Yes
+6/26/2023 16:14:41,Female,26,6-7 hrs,No,Yes,3-6,No
+6/26/2023 16:15:08,Male,19,6-7 hrs,Yes,No,1-2,Yes
+6/26/2023 16:15:54,Prefer not to say,19,6-7 hrs,Yes,No,1-2,No
+6/26/2023 16:16:52,Male,19,6-7 hrs,Yes,No,3-6,Yes
+6/26/2023 16:20:17,Male,20,8-9 hrs,Yes,Yes,3-6,"Maybe, I don't know."
+6/26/2023 16:23:14,Male,22,6-7 hrs,No,Yes,Never,Yes
+6/26/2023 16:25:03,Male,20,More than 9 hours,Yes,Yes,1-2,No
+6/26/2023 16:25:28,Male,20,Less than 5 hours,No,Yes,1-2,"Maybe, I don't know."
+6/26/2023 16:27:23,Female,30,7-8 hrs,Yes,No,1-2,Yes
+6/26/2023 16:29:44,Male,26,6-7 hrs,No,Yes,1-2,Yes
+6/26/2023 16:33:10,Male,19,Less than 5 hours,Maybe,Yes,1-2,Yes
+6/26/2023 16:40:41,Male,18,5-6 hrs,Maybe,No,1-2,Yes
+6/26/2023 16:43:53,Male,20,7-8 hrs,Yes,Yes,1-2,Yes
+6/26/2023 16:45:42,Female,20,5-6 hrs,Maybe,No,3-6,Yes
+6/26/2023 16:53:15,Female,20,More than 9 hours,Yes,No,Never,"Maybe, I don't know."
+6/26/2023 17:10:37,Female,20,More than 9 hours,No,Yes,1-2,Yes
+6/26/2023 17:30:38,Male,26,6-7 hrs,No,No,1-2,Yes
+6/26/2023 17:31:08,Female,19,8-9 hrs,Yes,Yes,1-2,No
+6/26/2023 17:32:18,Male,23,7-8 hrs,Yes,No,1-2,Yes
+6/26/2023 17:43:42,Male,21,6-7 hrs,Yes,No,Never,Yes
+6/26/2023 18:01:43,Prefer not to say,90,0,Yes,No,Never,"Maybe, I don't know."
+6/26/2023 18:44:53,Female,30,5-6 hrs,No,Yes,3-6,Yes
+6/26/2023 19:08:54,Male,20,7-8 hrs,Yes,No,1-2,"Maybe, I don't know."
+6/26/2023 19:47:54,Male,19,7-8 hrs,Yes,No,1-2,Yes
+6/26/2023 20:16:22,Female,29,7-8 hrs,Yes,Yes,1-2,"Maybe, I don't know."
+6/26/2023 20:19:54,Male,18,More than 9 hours,Maybe,Yes,1-2,"Maybe, I don't know."
+6/26/2023 20:30:10,Female,20,Less than 5 hours,No,Yes,1-2,Yes
+6/26/2023 20:41:05,Male,20,8-9 hrs,Yes,No,1-2,Yes
+6/26/2023 20:46:39,Male,18,More than 9 hours,Yes,No,1-2,No
+6/26/2023 20:48:39,Male,19,8-9 hrs,Yes,Yes,1-2,"Maybe, I don't know."
+6/26/2023 21:22:08,Male,27,6-7 hrs,Maybe,No,3-6,Yes
+6/26/2023 22:57:14,Male,21,Less than 5 hours,Yes,No,Never,Yes
+6/26/2023 23:00:24,Male,18,More than 9 hours,Yes,No,1-2,Yes
+6/27/2023 0:01:03,Male,20,8-9 hrs,Yes,No,1-2,Yes
+6/27/2023 8:23:12,Male,18,7-8 hrs,Yes,No,1-2,Yes
+6/27/2023 10:59:59,Female,18,6-7 hrs,Maybe,No,3-6,"Maybe, I don't know."
+6/27/2023 12:21:40,Male,18,Less than 5 hours,Maybe,No,3-6,Yes
+6/27/2023 12:42:26,Male,19,5-6 hrs,Yes,No,1-2,Yes
+6/27/2023 12:47:44,Male,27,Less than 5 hours,No,Yes,3-6,Yes
+6/27/2023 12:55:53,Male,17,Less than 5 hours,No,No,3-6,"Maybe, I don't know."
