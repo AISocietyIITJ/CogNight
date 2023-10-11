@@ -201,6 +201,45 @@ plt.plot(train_losses)
 plt.plot(val_losses)
 plt.show()
 
+#########################
+# SAVING THE PARAMETERS #
+#########################
+
+torch.save(model.state_dict(), 'lstm.tar')
+
+
+
 #### MODEL STARTS OVERFITTING AT 100 EPOCHS 
 #### NEED TO APPLY REGULARIZATION OR OTHER METHODS TO AVOID OVERFITTING
 #### OTHERWISE MODEL WORKING FINE
+
+##############
+# EVALUATION #
+##############
+
+with torch.no_grad():
+    predicted = model(X_train.to(device)).to('cpu').numpy()
+
+test_predictions = model(X_test.to(device)).detach().cpu().numpy().flatten()
+
+dummies = np.zeros((X_test.shape[0], lookback+1))
+dummies[:, 0] = test_predictions
+dummies = scaler.inverse_transform(dummies)
+
+test_predictions = dc(dummies[:, 0])
+test_predictions[test_predictions >= 100] = 100
+test_predictions = test_predictions[1:]
+
+dummies = np.zeros((X_test.shape[0], lookback+1))
+dummies[:, 0] = y_test.flatten()
+dummies = scaler.inverse_transform(dummies)
+
+new_y_test = dc(dummies[:, 0])
+new_y_test = new_y_test[:-1]
+
+plt.plot(new_y_test[-100:], label='Actual')
+plt.plot(test_predictions[-100:], label='Predicted')
+plt.xlabel('Day')
+plt.ylabel('SQ')
+plt.legend()
+plt.show()
