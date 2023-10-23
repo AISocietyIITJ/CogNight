@@ -3,3 +3,4 @@ Numpy
 Matplotlib
 Scikit-Learn
 Torch
+Pickle
