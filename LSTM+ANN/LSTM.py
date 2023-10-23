@@ -205,8 +205,10 @@ plt.show()
 # SAVING THE PARAMETERS #
 #########################
 
-torch.save(model.state_dict(), 'lstm.tar')
+import pickle
 
+with open('lstm.pkl','wb') as f:
+  pickle.dump(model,f)
 
 
 #### MODEL STARTS OVERFITTING AT 100 EPOCHS 

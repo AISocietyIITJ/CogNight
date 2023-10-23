@@ -57,3 +57,18 @@ mlpr.fit(x_test_2,y_test_2)
 
 y_pred_whole = mlpr.predict(x_test_2)
 ame = sklearn.metrics.mean_absolute_error(y_test_2, y_pred_whole)
+
+#################
+# SAVING PARAMS #
+#################
+
+import pickle
+
+with open('ann.pkl','wb') as f:
+  pickle.dump(mlpr,f)
+
+################
+# TESTING EVAL #
+################
+
+print(ame)
