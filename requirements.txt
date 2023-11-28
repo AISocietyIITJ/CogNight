@@ -1,8 +1,14 @@
 pandas
 numpy
 matplotlib
-scikit-learn
+sklearn
 torch
 pickle
 statsmodel
 warnings
+gretel-synthetics
+tqdm
+copy
+os
+seaborn
+zipfile
